@@ -1,2 +1,7 @@
 # Intro-to-Data-Science
-Portfolio for CSC 442
+Group Project for CSC 442
+
+Members:
+* Zoe Brentzel
+* Ashwini Jha
+* Divya Palasamudram
